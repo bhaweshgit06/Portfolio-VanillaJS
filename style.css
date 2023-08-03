@@ -282,6 +282,11 @@ section {
     height: inherit;
     background-color: rgb(108, 154, 40);
 }
+.ninty-percent{
+    width: 90%;
+    height: inherit;
+    background-color: rgb(209, 119, 23);
+}
 
 .ninty-one-percent {
     width: 91%;
